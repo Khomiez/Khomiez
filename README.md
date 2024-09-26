@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khomchan Wisesnakorn 🍋</h1>
-<h3 align="center">{(INFP)} KKU freshmen, Faculty of Engineering, CoE33 💻</h3>
+<h3 align="center">{(INFP)} KKU  Sophomore, Faculty of Engineering, CoE33 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khomiez&label=Profile%20views&color=0e75b6&style=flat" alt="khomiez" /> </p>
 
