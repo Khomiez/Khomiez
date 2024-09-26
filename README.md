@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khomiez&label=Profile%20views&color=0e75b6&style=flat" alt="khomiez" /> </p>
 
-- 🔭 I’m currently working on Unity Game project. **Harvest Havoc**
+- 🔭 I’m currently working on NextJS project. **SportQueue**
 
-- 🌱 I’m currently learning new languages **R, Java, C#, PHP, nodeJS, back-end stuff**
+- 🌱 I’m currently learning new languages **R, Rust, Java, C#, PHP, nodeJS, back-end stuff**
 
 - 📫 How to reach me **khomchan.wi@kkumail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@noniez2980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@noniez2980" height="30" width="40" /></a>
+{/*<a href="https://www.youtube.com/@noniez2980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@noniez2980" height="30" width="40" /></a>*/}
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
