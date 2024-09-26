@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm I'm Khomchan Wisesnakorn 🍋</h1>
 <h3 align="center">{(INFP)} KKU Sophomore, Faculty of Engineering, CoE33 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noniie&label=Profile%20views&color=0e75b6&style=flat" alt="noniie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Khomiez&label=Profile%20views&color=0e75b6&style=flat" alt="Khomiez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noniie" alt="noniie" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khomiez" alt="Khomiez" /></a> </p>
 
 - 🔭 I’m currently working on NextJS project. **SportQueue**
 
