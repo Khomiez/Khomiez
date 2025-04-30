@@ -5,7 +5,7 @@
 [![IELTS](https://img.shields.io/badge/IELTS-5.5%20(B2)-orange?style=flat-square)](/)
 
 ## About
-Computer Engineering sophomore at Khon Kaen University with interests in web development, cybersecurity, and network optimization. INFP who enjoys solving complex problems and building efficient solutions. 🌲
+Computer Engineering junior at Khon Kaen University with interests in web development, cybersecurity, and network optimization. INFP who enjoys solving complex problems and building efficient solutions. 🌲
 
 ## Projects
 
