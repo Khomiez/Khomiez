@@ -1,55 +1,53 @@
-# Khomchan Wisesnakorn 👨‍💻
+# Khomchan Wisesnakorn 🦊
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://www.leetcode.com/Khomiez)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:khomchan.wi@kkumail.com)
+[![Email](https://img.shields.io/badge/Email-khomchan.wi%40kkumail.com-orange?style=flat-square&logo=gmail)](mailto:khomchan.wi@kkumail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Khomiez-orange?style=flat-square&logo=leetcode)](https://www.leetcode.com/Khomiez)
+[![IELTS](https://img.shields.io/badge/IELTS-5.5%20(B2)-orange?style=flat-square)](/)
 
-## About Me 🌱
+## About
+Computer Engineering sophomore at Khon Kaen University with interests in web development, cybersecurity, and network optimization. INFP who enjoys solving complex problems and building efficient solutions. 🌲
 
-Computer Engineering student at Khon Kaen University with a passion for web development and software engineering. INFP who enjoys problem-solving and building innovative solutions.
+## Projects
 
-- 🔭 Currently working on **SportQueue** - a NextJS project
-- 📚 Expanding my skill set with **R, Rust, Java, C#, Redux, Node.js, and backend development**
-- 🎓 Sophomore at Faculty of Engineering, KKU (CoE33)
+### KKU Freshmen Welcome Website 2024
+```
+NextJS • TypeScript • Internationalization • Firebase
+```
+- Contributed as web developer and translator
+- Designed responsive interfaces for cross-device compatibility
+- Implemented multilingual support (Thai/English)
+- [View Project](https://welcomekkufreshmen-2024.vercel.app/th)
 
-## Tech Stack 🛠️
+## Skills
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+```typescript
+const technicalSkills = {
+  languages: ["TypeScript", "Python", "JavaScript", "C++", "C"],
+  frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
+  backend: ["Node.js", "Express"],
+  databases: ["MongoDB", "Firebase"],
+  tools: ["Git", "Figma", "Postman"],
+  learning: ["Redux", "Docker", "Network Security", "Optimization"]
+};
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+const softSkills = ["Problem Solving", "Adaptability", "Communication", "Creativity"];
+```
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## Current Focus 🔍
 
-### Other Skills
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Exploring the intersection of web development and cybersecurity while building practical applications that solve real-world problems. Looking to expand knowledge in network optimization and security practices.
 
-## GitHub Stats 📊
+## Beyond Code 🌳
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khomiez&show_icons=true&theme=tokyonight)
+- Enthusiastic about boardgames and tabletop RPGs
+- Currently developing a Chronicles of Darkness campaign
+- Passionate reader and fox enthusiast 🦊
+- INFP personality type - thoughtful, creative, and values-driven
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khomiez&layout=compact&theme=tokyonight)
+## Aspirations
+
+Working toward contributing to high-end tech companies or founding a technology business that makes a meaningful impact on how we interact with digital systems.
 
 ---
 
-<p align="center">💡 <i>Programming is the art of telling a computer what to do in a way that both you and the computer understand.</i></p>
+<p align="center"><i>"The best way to predict the future is to implement it."</i></p>
