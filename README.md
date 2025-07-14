@@ -10,7 +10,6 @@ Computer Engineering junior at Khon Kaen University with interests in web develo
 ## Certifications 🏅
 
 [![MongoDB RAG Badge](https://images.credly.com/size/340x340/images/afbbb52b-95b2-4a5e-92c2-315ea67fc2f3/image.png)](https://www.credly.com/badges/87f24a28-4e4d-4798-af42-4dbe07e4ccd2/public_url)
-
 - **MongoDB: Retrieval-Augmented Generation (RAG)** – Credentialed via Credly
 
 
